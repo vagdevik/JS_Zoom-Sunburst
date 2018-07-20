@@ -19,7 +19,3 @@ This will start a web server that hosts your entire directory listing, which wil
 You can use a custom port  python -m SimpleHTTPServer 9000 giving you link: http://localhost:9000
 This approach is built in to any Python installation.
 
-
-
-
-
